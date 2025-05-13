@@ -1,4 +1,4 @@
-# PREDATA
+# KUBIOS R Package
 
 - **Author:** Guillaume T. Vallet, guillaume.vallet@uqtr.ca, Université du Québec à Trois-Rivières, CRIUGM
 - **Version:** 0.2
